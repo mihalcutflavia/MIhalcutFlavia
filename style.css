@@ -1,0 +1,21 @@
+body{background-color: yellow;}
+h1, h2 {
+background-color:dodgerblue;
+}
+h3 {
+background-color:orange;
+}
+
+
+img
+{
+width: 400px;
+height:400px;
+margin left: 50px;
+}
+table, th, td{
+border:1px solid black;
+}
+.red-text{color:red;}
+.big-text {font-size: 2em;}
+#rounded_img{ border radius; 200px;}
