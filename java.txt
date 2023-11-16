@@ -1,0 +1,12 @@
+var button= document.getElementByID("button")
+var body= document.getElementByID("button")
+var nume= document.getElementByID("button")
+var prenume= document.getElementByID("button")
+var img= document.getElementByID("button")
+var asteptari= document.getElementByID("button")
+
+button.addEventListener("click", altaViata)
+function altaViata()
+{
+nume.innnerHTMl="Functie: Java dev"
+}
